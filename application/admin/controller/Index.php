@@ -17,7 +17,7 @@ class Index extends Controller
     }
 	public function edit()
 	{
-		echo '修改';//呵呵
+		echo '修改';//呵呵啦啦啦
 	}
 }
 ?>
