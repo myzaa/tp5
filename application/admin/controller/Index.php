@@ -15,6 +15,9 @@ class Index extends Controller
     {
     	echo '后台添加';
     }
-
+	public function edit()
+	{
+		echo '修改';
+	}
 }
 ?>
